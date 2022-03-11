@@ -1,9 +1,24 @@
 item {
     id: 1
-    name: 'Acetaminophen 325 MG Oral Tablet'
+    name: '500'
 }
 
 item {
     id: 2
-    name: 'Ibuprofen 200 MG Oral Tablet'
+    name: '200'
+}
+
+item {
+    id: 3
+    name: '100'
+}
+
+item {
+    id: 4
+    name: '50'
+}
+
+item {
+    id: 5
+    name: '20'
 }
